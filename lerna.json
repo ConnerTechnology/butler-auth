@@ -1,6 +1,7 @@
 {
   "packages": [
-    "backend/*"
+    "backend/*",
+    "packages/*"
   ],
   "version": "independent"
 }

@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "eslint-config-butler",
+  "description": "Butler config for ESLint.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint-config-airbnb-base": "13.2.0",
+    "eslint-config-prettier": "6.0.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-prettier": "3.1.0",
+    "eslint": "5.6.0"
+  }
+}
