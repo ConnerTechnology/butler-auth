@@ -1,6 +1,6 @@
 {
   "extends": [
-    "butler"
+    "connertech"
   ],
   "overrides": [
     {

@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3000;
 
 // Declare a route
 fastify.get('/', async () => {
-  return { hello: 'world foo' };
+  return { hello: 'world' };
 });
 
 // Run the server!
