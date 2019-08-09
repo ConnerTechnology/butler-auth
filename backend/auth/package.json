@@ -1,13 +1,17 @@
 {
-  "name": "auth",
+  "name": "butler-auth",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "lint": "eslint '**/*.{js,ts}' --quiet --fix",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "dependencies": {
+    "fastify": "2.7.1"
+  },
   "devDependencies": {
     "eslint-config-airbnb-base": "13.2.0",
     "eslint-config-butler": "1.0.0",
